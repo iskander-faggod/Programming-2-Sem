@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/second/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

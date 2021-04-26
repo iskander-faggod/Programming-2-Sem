@@ -1,0 +1,3 @@
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/fouth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/fouth/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/fouth/cmake-build-debug/CMakeFiles/fouth.dir

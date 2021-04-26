@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/third/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cstring
+-
+sstream
+-
+map
+-
+set
+-
+cmath
+-
+pugixml.hpp
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/third/pugixml.hpp
+
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/third/pugiconfig.hpp
+
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/third/pugixml.hpp
+pugiconfig.hpp
+/home/iskander/Desktop/УЧЕБА/ИТМО/SECOND SEM/PROGRAMMING/LABS/third/pugiconfig.hpp
+stddef.h
+-
+exception
+-
+iterator
+-
+iosfwd
+-
+string
+-
+
